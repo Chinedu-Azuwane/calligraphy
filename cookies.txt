@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ayeshaakamal.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+ayeshaakamal.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_a4fd27068b6df93334f856205aa87847	t_9f333270eef5cb0a2eb0c5e9d33cee%7C%7C1708563113%7C%7C1708559513%7C%7C819dfbc2cd4d92e978b4163a10599e8b
+ayeshaakamal.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	d94d5db2d7fa7bce6a9a0097f2924ada
+
